@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Commissioners of the General Assembly to the Kings Majesty their declaration sent to the Parliament of England : their letter to some brethren of the ministry there, and their commission to their brother Master Alexander Henderson, January 1643.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58624</idno>
+            <idno type="STC">Wing S1244</idno>
+            <idno type="STC">ESTC R15448</idno>
+            <idno type="EEBO-CITATION">13144685</idno>
+            <idno type="OCLC">ocm 13144685</idno>
+            <idno type="VID">98055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Commissioners of the General Assembly to the Kings Majesty their declaration sent to the Parliament of England : their letter to some brethren of the ministry there, and their commission to their brother Master Alexander Henderson, January 1643.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Entry for S1244 cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History --  Sources.</term>
+               <term>Church and state --  England.</term>
+               <term>Church and state --  Scotland.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98055:1"/>
+            <pb facs="tcp:98055:1"/>
+            <p>THE HUMBLE PETITION OF THE COMMISSIONERS OF THE GENERALL ASSEMBLY TO THE KINGS MAJESTY.</p>
+            <p>Their Declaration ſent to the Parlia<g ref="char:EOLhyphen"/>ment of ENGLAND.</p>
+            <p>Their Letter to ſome Brethren of the Miniſtery there.</p>
+            <p>And their Commiſſion to their Brother Maſter <hi>Alexander Henderſon,</hi> January 1643.</p>
+            <p>EDINBURGH, Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:98055:2"/>
+            <pb n="1" facs="tcp:98055:2"/>
+            <head>To the Kings moſt excellent Majeſty.</head>
+            <head type="sub">The humble Petition of the Commiſsioners of the Generall Aſſembly of the Kirk of <hi>Scotland,</hi> from their meeting at Edinburgh, January <hi>4. 1643.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur ſilence and ceaſing to preſent before Your Majeſty our humble thoughts and deſires at this time of common danger to Religion, to Your Majeſties ſacred Perſon, Your Crown, and Poſteritie, and to all Your Majeſties Dominions, were impiety againſt God, unthankfulnes and diſloyalty againſt Your Majeſty, an indirect approbation and hard<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+ing of the adverſaries of Truth and Peace in their wicked wayes, and a cruelty againſt our Brethren, lying in ſuch depths of affliction and anguiſh of ſpirit; any one of which crimes were in us, above all others moſt inexcuſable, and would prove us moſt unworthie of the truſt committed unto us. The flame of this common combuſtion hath almoſt de<g ref="char:EOLhyphen"/>voured Ireland, is now waſting the Kingdome of England, &amp; we cannot tell how ſoon it ſhal enter upon our ſelves, &amp; ſet this Your Majeſties moſt ancient and native Kingdome on fire: If in this wofull caſe and lamentable condition of Your Majeſties Dominions all others ſhould be ſilent, it becometh us to ſpeak; and if our tongues and pens ſhould ceaſe, our conſciences within us would cry out, and the ſtones in the ſtreets would anſwer us.</p>
+            <p>Our great grief and apprehenſion of danger, is not a little encreaſed, partly by the inſolencie and preſumption of Papiſts and others diſ-affected to the Reformation of Religion who although for their number and power, they be not conſiderable amongſt us; yet through the ſucceſſe
+<pb n="2" facs="tcp:98055:3"/>of the Popiſh party in Ireland, and the hopes they con<g ref="char:EOLhyphen"/>ceive of the prevailing power of Popiſh Armies, and the Prelaticall Faction in England, they have of late taken ſpi<g ref="char:EOLhyphen"/>rits, and begun to ſpeak big words againſt the Reformati<g ref="char:EOLhyphen"/>on of Religion, and the Work of God in this Land; and partly and more principally, that a chief praiſe of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and thereby our not vain, but juſt gloria<g ref="char:EOLhyphen"/>tion, is by the publick Declaration of the Earle of New<g ref="char:EOLhyphen"/>caſtle, Generall of Your Majeſties Forces in the Northern parts, and neareſt unto us, transferred unto Papiſts; who although they be ſworn enemies unto Kings, and be as in<g ref="char:EOLhyphen"/>famous for their Treaſons and Conſpiracies againſt Prin<g ref="char:EOLhyphen"/>ces and Rulers, as for their known Idolatrie and ſpirituall Tyrannie; yet are they openly declared to be, not good Subjects, or better Sub<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts, but far better Subjects then Proteſtants; which is a new and foul diſparagement of the reformed Religion, a notable injurie to Your Majeſty in Your Honour, a ſenſible reflection upon the whole Bo<g ref="char:EOLhyphen"/>dy of this Kingdome, which is impatient that any Sub<g ref="char:EOLhyphen"/>jects, but abhorreth, and extremely diſdaineth that Pa<g ref="char:EOLhyphen"/>piſts, who refuſe to take the Oath of Allegeance, ſhould be compared with them in allegeance and fidelitie; and, which as a ſtrange doctrine, from the mouth or pen of profeſſed Proteſtants, wil ſuffer an hard conſtruction from all the Reformed Kirks.</p>
+            <p>We therefore Your Majeſties moſt humble and loving Subjects, upon theſe and the like conſiderations, do hum<g ref="char:EOLhyphen"/>bly intreat, That Your Majeſty may be pleaſed in Your Princely wiſedome, Firſt to conſider, That the intentions of Papiſts, directed by the principles of their Profeſſion, are no other, then they have been from the beginning, even to build their Babel, and to ſet up their execrable I<g ref="char:EOLhyphen"/>dolatry, and Antichriſtian Tyrannie in all Your Majeſties
+<pb n="3" facs="tcp:98055:3"/>Dominions, to change the Face of Your two Kingdomes of Scotland and England, into the ſimilitude of miſerable Ireland, which is more bitter to the people of God, Your Majeſties good Subjects, to think upon, than death: And whatſoever their preſent pretences be for the de<g ref="char:EOLhyphen"/>fence of Your Majeſties Perſon and Authoritie; yet in the end by their arms and power, with a diſplayed banner, to bring that to paſſe againſt Your Royall Perſon and Po<g ref="char:EOLhyphen"/>ſterity, which the fifth of November, never to be forgot<g ref="char:EOLhyphen"/>ten, was not able by their ſubtile and under-mining treaſon to produce; Or which will be their greateſt mer<g ref="char:EOLhyphen"/>cy, to reduce Your Majeſty, and Your Kingdomes, to the baſe and unnaturall ſlavery of their Monarch the Pope: And next, that Your Majeſty upon this undeniable evi<g ref="char:EOLhyphen"/>dence, may timouſly and ſpeedily apply Your Royall Authority for diſ-banding their Forces, ſuppreſſing their Power, and diſappointing their bloudy and mercileſſe projects. And for this end we are with greater earneſtnes than before, conſtrained to fall down again before Your Majeſty, and in all humility to renew the Supplication of the late Generall Aſſembly, and our own former Petition in their name, for unity of Religion, and for uniformity of Church-government in all Your Majeſties Domini<g ref="char:EOLhyphen"/>ons: And to this effect for a meeting of ſound Divines to be held in England, unto which according to the deſire of Your Majeſties Parliament, ſome Commiſſioners may be ſent from this Kirk, that in all points to be proponed and debated, there may be the greater conſent and harmonie.</p>
+            <p>We take the boldnes to be the more inſtant in this our humble deſire, becauſe it concerneth the Lord Jeſus Chriſt ſo much in his glory, your Majeſty in your honor, the Kirk of England which we ought to tender as our own bow<g ref="char:EOLhyphen"/>els, &amp; whoſe reformation is more dear to us, than our lives,
+<pb n="4" facs="tcp:98055:4"/>in her happineſſe, and the Kirk of Scotland in her purity and peace: Former experience, and daily ſenſe teaching us, that without the Reformation of the Kirk of England, there is no hope nor poſſibilitie of the continuance of Re<g ref="char:EOLhyphen"/>formation here.</p>
+            <p>The Lord of Heaven and Earth, whoſe Vicegerent Your Majeſty is, calleth for this great Work of Reforma<g ref="char:EOLhyphen"/>tion at Your hands, and the preſent commotions and trou<g ref="char:EOLhyphen"/>bles of Your Majeſties Dominions, are either preparati<g ref="char:EOLhyphen"/>ons in the mercy of God, for this bleſſed Reformation and unity in Religion, which is the deſire, prayer, and ex<g ref="char:EOLhyphen"/>pectation of all Your Majeſties good Subjects in this Kingdome, Or, which they tremble to think upon, and earneſtly deprecate, are in the juſtice of God for the abuſe of the Goſpel, the tolerating of Idolatry and Superſtition againſt ſo clear a light, and not acknowledging the day of viſitation; The beginnings of ſuch a dolefull deſolation, as no policie or power of man, ſhal be able to prevent, and as ſhall make Your Majeſties Kingdomes within a ſhort time as miſerable as now they may be happy by a Refor<g ref="char:EOLhyphen"/>mation of Religion. God forbid, that while the Houſes of Parliament do profeſſe their deſire of the Reformation of Religion in a peaceable and Parliamentarie way, and paſſe their Bills for that end in the particulars, That Your Majeſty, the Nurſe-father of the Kirk of Chriſt, to whoſe care the cuſtody and vindication of Religion doth prin<g ref="char:EOLhyphen"/>cipally belong, ſhould to the provoking of the anger of God, the ſtopping of the influence of ſo many bleſſings from Heaven, &amp; the grieving of the hearts of all the god<g ref="char:EOLhyphen"/>ly, fruſtrate our expectation, make our hopes aſhamed, and hazard the loſſe of the hearts of all Your good People, which next unto the truth and unity of Religion, and the ſafety of Your Kingdomes, are willing to hazard their
+<pb n="5" facs="tcp:98055:4"/>lives, and ſpend their bloud for Your Majeſties honour end happineſſe.</p>
+            <p>We are not ignorant that the Work is great, the diffi<g ref="char:EOLhyphen"/>culties and impediments be many, and that there be both Mountains and Lyons in the way. The ſtrongeſt lett, till it be taken out of the way, is the Mountain of Prelacie: And no wonder, if Your Majeſtic conſider how many Papiſts, and Popiſhly affected, have for a long time found peace and eaſe under the ſhadow thereof; How many of the Pre<g ref="char:EOLhyphen"/>laticall Faction have thereby their life and being; How many profane &amp; worldly men do fear the yoke of Chriſt, and are unwilling to ſubmit themſelves to the obedience of the Goſpel; And how many there be, whoſe eyes are dazelled with the externall pomp and glory of the Kirk, whoſe mindes are miſ-carried with a conceit of the go<g ref="char:EOLhyphen"/>verning the Kirk by the rules of humane Policy, &amp; whoſe hearts are affrighted with the apprehenſion of the dange<g ref="char:EOLhyphen"/>rous conſequences which may enſue upon alterations. But when Your Majeſtie in Your Princely and religious wiſe<g ref="char:EOLhyphen"/>dome, ſhall remember from the Records of former times, how againſt the gates of hell, the force &amp; fraud of worldly and wicked men, and all Panick fears of danger, the Chri<g ref="char:EOLhyphen"/>ſtian Religion was firſt planted, and the Chriſtian Kirks thereafter reformed, &amp; from the condition of the preſent times, how many from the experience of the tyranny of Prelates, are afraid to diſcover themſelves, leſt they be re<g ref="char:EOLhyphen"/>venged upon them hereafter: Whereas Prelacie being re<g ref="char:EOLhyphen"/>moved, they would openly profeſſe what they are, &amp; joyn with others in the way of Reformation; All obſtacles and difficulties ſhall be but matter of the manifeſtation of the power of God, the principall worker, and the means of the greater glory to Your Majeſtie the prime Inſtrument.</p>
+            <p>The intermixture of the government of Prelates with
+<pb n="6" facs="tcp:98055:5"/>the Civill State, mentioned in Your Majeſties Anſwer to our former Petition, being taken away, and the right Go<g ref="char:EOLhyphen"/>vernment by Aſſemblies, which is to be ſeen in all the Reformed Kirks, and wherein the agreement will be eaſie, being ſettled; The Kirk and Religion will be more pure and free of mixture, and the Civill Government more ſound and firme; That Government of the Kirk, muſt ſute beſt with the Civill State, and be moſt uſefull for Kings and Kingdomes, which is beſt warranted by GOD, by whom Kings do raigne, and Kingdomes are eſtabliſhed; Nor can a Reformation be expected in the Common and ordinary way, expreſſed alſo in Your Maje<g ref="char:EOLhyphen"/>ſties Anſwer. The wiſeſt and moſt Religious Princes have found it impoſſible, and implying a repugnancie, ſince the perſons to be reformed, and the Reformers, muſt be di<g ref="char:EOLhyphen"/>verſe, and the way of Reformation muſt be different from the corrupt way, by which defections of Kirk-men, and corruptions in doctrine, worſhip, &amp; Government have en<g ref="char:EOLhyphen"/>tred into the Kirk. Suffer us therefore (Dread Soveraigne) to renew our Petitions for this unity of Religion, and u<g ref="char:EOLhyphen"/>niformity of Kirk-government, and for a meeting of ſound Divines of both Kingdomes, who may prepare matters for Your Majeſties view, and for the examination and ap<g ref="char:EOLhyphen"/>probation of more full Aſſemblies.</p>
+            <p>The Nationall Aſſembly of this Kirk, from which we have our Commiſſion, did promiſe in their thankſ<g ref="char:EOLhyphen"/>giving for the many favours expreſſed in Your Majeſties Letter, their beſt endeavours to keep the people under their charge, in unity and peace, and in loyalty and obe<g ref="char:EOLhyphen"/>dience to Your Majeſtie and Your Laws, which we con<g ref="char:EOLhyphen"/>feſſe is a duty well beſeeming the preachers of the Goſpel: But we cannot conceale, how much both Paſtors and People are grieved and diſquieted with the late reports of
+<pb n="7" facs="tcp:98055:5"/>the ſucceſſe, boldnes, and ſtrength of Popiſh forces in Ire<g ref="char:EOLhyphen"/>land and England, and how much danger from the power of ſo malicious &amp; bloudy Enemies, is apprehended to the Religion &amp; peace of this Kirk &amp; Kingdome, conceived by them to be the ſpring whence have iſſued all their calami<g ref="char:EOLhyphen"/>ties and miſeries: Which we humbly remonſtrate to Your Majeſty, as a neceſſity requiring a General Aſſembly, &amp; do earneſtly ſupplicate for the preſence and aſſiſtance of Your Majeſties Commiſſioner at the day to be appointed, That by univerſall conſent of the whole Kirk, the beſt courſe may be taken for the preſervation of Religion, and for the averting of the great wrath which they conceive to be imminent to this Kingdome.</p>
+            <p>If it ſhall pleaſe the Lord, in whoſe hand is the heart of the King, as the rivers of waters to turn it whitherſoever he will, to incline Your Majeſties heart, to this through Reformation, no more to tolerate the Maſſe, or any part of Romiſh ſuperſtition or Tyrannie, and to command that all good means be uſed for the converſion of Your Princely conſort the Queens Majeſty, which is alſo the humble deſire of this whole Kirk and Kingdome, Your joynt comforts ſhall be multiplied above the dayes of Your affliction, to Your incredible joy, Your glory ſhall ſhine in brightneſſe above all Your Royall Progenitors, to the Admiration of the World, and the terrour of Your E<g ref="char:EOLhyphen"/>nemies; And Your Kingdomes ſo far abound in Righte<g ref="char:EOLhyphen"/>ouſneſſe, Peace, and Proſperity above all that hath been in former Generations, that they ſhall ſay; <hi>It is good for us that we have been afflicted.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>A. Ker</hi> Cler. Commiſſ. Gen. Aſſ.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="8" facs="tcp:98055:6"/>
+            <head>TO THE HONOURABLE HOUSES of the Parliament of ENGLAND.</head>
+            <head type="sub">The Declaration of the Commiſsioners of the Generall Aſſem<g ref="char:EOLhyphen"/>bly of the Kirk of <hi>SCOTLAND,</hi> from their meeting at Edinburgh. Jan. <hi>4. 1643.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He weighty charge and truſt put upon us by the Generall Aſſembly of this Kirk, hath given us, the boldneſſe, in this time of ſo great danger to Religion, to His Majeſties Perſon, Crown, and Poſteritie, &amp; to all His Majeſties Dominions, through the inſolencie and prevailing power of Papiſts and the Prela<g ref="char:EOLhyphen"/>ticall partie, to repreſent unto His Majeſtie by ſupplicati<g ref="char:EOLhyphen"/>on, our humble thoughts and deſires for a ſpeedy reme<g ref="char:EOLhyphen"/>dy; By disbanding all Papiſts out of His Army; by calling an Aſſemblie of godly and ſound Divines, unto which ſome of the Commiſſioners may be ſent from the Kirk of Scotland, that by the bleſſing of GOD upon their la<g ref="char:EOLhyphen"/>bours, the ſo much deſired unity in Religion and Kirk-go<g ref="char:EOLhyphen"/>vernment, may be brought about and ſettled in both King<g ref="char:EOLhyphen"/>domes; and by the faithful uſing of all good means for the Converſion of the Queens Majeſtie to the profeſſion and practice of the true reformed Religion, which we conceive a principall part of the remedie.</p>
+            <p>This Kirk and Kingdome hath the ſympathie and fears, but the Houſes of Parliament, and the Kingdome of England have the ſufferings and ſenſe of theſe evils; We are in the danger, they in the diſtreſſe; The miſeries are imminent to us, but incumbent upon them: And therefore the Commiſſioners of the Aſſembly do only repreſent their Brotherly and Chriſtian fellow-feeling of the preſent condition of that Kingdome, and their fears ere it be long, unleſſe the mercifull and mighty GOD prevent it by his gracious providence, of the like calami<g ref="char:EOLhyphen"/>ties
+<pb n="9" facs="tcp:98055:6"/>unto themſelves, Together with their earneſt prayers for Englands deliverance and their own ſafety: And do earneſtly intreat, that the Parliament may be pleaſed for their part, and ſo much as in them lyeth, ſpeedily to apply the fore-named Remedies; by disbanding Papiſts, if any be in their Armies, as is alledged in diverſe Declarations; by the ful manifeſtation and conſtant proſecution of their de<g ref="char:EOLhyphen"/>ſires of unitie in Religion and Kirk-government; by their inſtant and unceſſant dealing with His Majeſtie for calling ſuch an Aſſembly of Divines; &amp; by their ſerious thoughts and endeavours about the Queen her converſion, that the high provocation of Idolatrie may no more be tolerated in the land: For which ends the Commiſſioners of the Aſ<g ref="char:EOLhyphen"/>ſembly have ſent up for the preſent with the Lord Chan<g ref="char:EOLhyphen"/>cellor, and others from the Commiſſioners for conſerving of peace, one of their number, a beloved and faithfull bro<g ref="char:EOLhyphen"/>ther M<hi rend="sup">r</hi> 
+               <hi>Alexander Henderſon,</hi> faith fully &amp; fully to expreſſe their meaning in the particulars, ſo far as the wiſedome of the Parliament ſhall judge it convenient to require or de<g ref="char:EOLhyphen"/>mand, and to make report to themſelves, and unto the Ge<g ref="char:EOLhyphen"/>neral Aſſembly (which is to be called upon the occaſion of the preſent exigence and neceſſity through the danger of Religion) of the principall letts and hinderances of Refor<g ref="char:EOLhyphen"/>mation and unity in Religion, and where the work doth ſtay. As they do above all other things deſire, that againſt all tentations and oppoſition, whatſoever may promove or conduce for this bleſſed Reformation, may from the zeal and by the wiſedome of the Houſes of Parliament be diligently gone about, without waiting for a more ſettled condition of the State; ſo do they nothing doubt but this being done, wrath ſhall be turned away from the Realme, the brightneſſe of the preſence of God, accompanying the Reformation of Religion, ſhal ſcatter all the clouds of dif<g ref="char:EOLhyphen"/>ferences
+<pb n="10" facs="tcp:98055:7"/>betwixt His Majeſtie and them, and His pow<g ref="char:EOLhyphen"/>erful providence ſhall both incline the Kings heart to the ſame Reformation, and to the eſtabliſhing of their Civill Liberties and Laws, and move the Houſes of Parliament after a ſpeciall manner and in all cheerfulneſſe to manifeſt their tender and dutifull care of His Majeſties ſacred Per<g ref="char:EOLhyphen"/>ſon, and of His Royall Greatneſſe and Authority, as a principall mean of the Greatneſſe and Proſperity of that, and other His Majeſties Kingdomes, that all by-paſt: miſeries being buried in oblivion, and the preſent diſtem<g ref="char:EOLhyphen"/>pers being perfectly cured, the Iland of Britain may be an holy and happy Land, wherein GOD may be ſerved according to His Word, the King obeyed according to His Laws, and the people live a quiet and peaceable life in all godlineſſe and honeſty, to the Admiration of the World, the envy of all wicked and Antichriſtian enemies, and to the comfort of all that love the Lord Jeſus Chriſt.</p>
+            <closer>
+               <signed>
+                  <hi>A. Ker</hi> Cler. Commiſſ. Gen. Aſſ.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Letter of the Commiſsioners of the Generall Aſſembly, direct to the right reverend their well-known and much approved Brethren of the Miniſtery of the Kirk of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right reverend and dear Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur earneſt &amp; unceſſant deſires of unity in Reli<g ref="char:EOLhyphen"/>gion, the preſent diſtreſſe of England &amp; Ireland, the danger to Religion in all His M<hi rend="sup">ties</hi> Domini<g ref="char:EOLhyphen"/>ons, &amp; the fears we have of an univerſal combu<g ref="char:EOLhyphen"/>ſtion, univerſally deſerved by our not knowing the time of our viſitation, &amp; the things which belong unto our peace, have conſtrained us with greater liberty then formerly, to ſollicit his M<hi rend="sup">ty</hi> by our ſupplication, &amp; the honorable houſes of Parliament by our Declaration, which we have ſent by
+<pb n="11" facs="tcp:98055:7"/>the hand of our reverend Brother, and much approved Commiſſioner, Maſter <hi>Alexander Henderſon,</hi> who will alſo make known to you our care and diligence to diſcover and remove ſuch letts and hinderances of the Peace and Union of the two Kingdomes, as by the ſubtiltie and ma<g ref="char:EOLhyphen"/>lignance of ſome few bad Inſtruments have been caſt in the way, that this whole Kirk and Kingdome may be intirely kept in the proſecution of their deſires of civill peace and religious unity, wherein (by the mercy of God) we have the happineſſe that the Lords of Privie Councel, and the Commiſſioners for conſerving the Peace betwixt the two Kingdomes, have not denyed their honourable help and aſſiſtance. Your preſent ſufferings, wherein wee your Brethren cannot but have our fellow-feeling, and the late experience of ſomwhat the like among our ſelves, may teach us both, that Satan and his inſtruments, in whom he now worketh, are in a rage at the Reformation of Religion; nor is it any new or ſtrange thing, that a time of Reformation be a time of trouble and difficultie: But your comfort and ours is, that the Arm of the Lord is not ſhortned, and that he who is in us, is ſtronger than he who is in the world. We make no queſtion of your vigilancie, circumſpection and faithfulnes, &amp; that no preſent nor fu<g ref="char:EOLhyphen"/>ture oppoſition will prevail ſo far, as to make you either more remiſſe in your intentions and deſires of ordering all things in the Houſe of the God of Heaven, according to his own will &amp; commandment, or ſo much as to lay aſide ſo great &amp; neceſſary a Work in expectation of a fitter op<g ref="char:EOLhyphen"/>portunity, &amp; a more peaceable and convenient ſeaſon. We are very confident, that ye wil be ſtedfaſt and unmoveable, alwaies abounding in the work of the Lord, for as much as ye know your work is not in vain in the Lord. We for our part ſhall, through the Lords aſſiſtance by our prayers,
+<pb n="12" facs="tcp:98055:8"/>with Faſting and Humiliation, and by our beſt endeavours be helpers together for the wiſhed end. At the firſt Refor<g ref="char:EOLhyphen"/>mation of Religion in this Land, a very ſmall number of Miniſters, without the help, and with the contradiction of the world, through the mighty preſenee, and bleſſing of God upon their weak labours, brought the Work at laſt to perfection: And in the beginnings of our late Refor<g ref="char:EOLhyphen"/>mation, when we were aſſembled at Glaſgow againſt the Prelacie, the Ceremonies and Service-book, a great part of the Aſſembly intended no ſuch alteration in the Form of Worſhip and Kirk-government, as they were moved unanimouſly to conſent unto in the end. When the time of Reformation cometh, the wiſedome and ſpirit of God in his ſervants, cannot be reſiſted by the wit and power of man. What although ye ſhould ſowe, and the Poſteritie reap? Hath not the Lord ſent both you and us to reap that whereon neither of us beſtowed any labour? other men laboured, and we are entred into their labours? Wee of this Iland are ſet upon the ſtage, at this time, the eyes of all the Reformed Kirks are upon us, we are after a ſpeciall manner made a ſpectacle to the World, to Angels, to Men. Our cares muſt be ſo to acquite our ſelves, that we make not our Friends; the followers of Chriſt, to mourn; and our enemies, the favourers of Antichriſt, to triumph and rejoyce: Which that we may do, is, and ſhall be the prayer of</p>
+            <closer>
+               <dateline>Edinburgh, <date>Jan. 1643.</date>
+               </dateline>
+               <signed>Your moſt loving Brethren and fel<g ref="char:EOLhyphen"/>low labourers in the Work of the Lord, the Commiſsioners of the Generall Aſſembly.
+<list>
+                     <item>M. Robert Douglas Moderator.</item>
+                     <item>
+                        <hi>A. Ker</hi> Cler. Commiſſ. Gen. Aſſ.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="commission">
+            <pb n="13" facs="tcp:98055:8"/>
+            <head>Commiſsion to M. <hi>Alexander Henderſon</hi> Edinburgh, January 20. 1643.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Commissioners of the late Generall Aſſem<g ref="char:EOLhyphen"/>bly, having power &amp; commiſſion by all lawful &amp; Eccleſiaſtick waies, to further this great Work of Union of this Iland in Religion and Kirk-government, to continue our own peace at home, &amp; the common peace be<g ref="char:EOLhyphen"/>twixt the Nations, to keep correſpondence with the Kirk of England, to concurre with the Councell &amp; Conſervers of peace at home &amp; abroad in all Eccleſiaſtick wayes, and to ſend ſome to preſent &amp; proſecute their deſires &amp; hum<g ref="char:EOLhyphen"/>ble advice to the Kings Majeſtie, and the Parliament of England and Miniſtrie there, for the furthering &amp; perfe<g ref="char:EOLhyphen"/>cting of ſo good &amp; great a work: Conſidering the neceſſi<g ref="char:EOLhyphen"/>ty at this time of ſending ſome from this Kirk intruſted with commiſſion, to concur with the Commiſſioners now ſent from the Lords, &amp; others of the Commiſſion of Par<g ref="char:EOLhyphen"/>liament for conſerving of peace, to the Kings Majeſtie &amp; Parliament of England, in all lawful &amp; Eccleſiaſtick waies to promove theſe good ends, And having certain know<g ref="char:EOLhyphen"/>ledge of the faithfulneſſe and abilities of our reverend and loving brother Maſter <hi>Alexander Henderſon</hi> Miniſter at Edinburgh, Gives therefore unto him by thir preſents full power and Commiſſion, our expreſſe mandate and charge to repaire to the Kingdome of England, and there, with concurrence of the ſaids Commiſſioners ſent from the Conſervaters of peace, to preſent unto the Kings Maje<g ref="char:EOLhyphen"/>ſty our humble Petition, &amp; to obtain His Majeſties graci<g ref="char:EOLhyphen"/>ous Anſwer thereunto: and with concurrence foreſaid to preſent unto the Parliament of England our humble Ad<g ref="char:EOLhyphen"/>vice &amp; Declaration: and alſo to deliver to our brethren of
+<pb n="14" facs="tcp:98055:9"/>the Miniſterie in that Kirk, our Letter direct to them, And to do all things with concurrence foreſaid, or by himſelf in all lawfull and Eccleſiaſtick wayes, for proſecuting and promoving our deſires to the Kings Majeſty, and Parlia<g ref="char:EOLhyphen"/>ment, and to our brethren of the Miniſtery there, for that bleſſed union of this Iland in Religion and Kirk-govern<g ref="char:EOLhyphen"/>ment according to the Laws and Conſtitutions of this Kirk: for continuing and eſtabliſhing a firm peace at home and betwixt the nations, and for a good correſpondence betwixt the Kirks within the ſame, conforme to the in<g ref="char:EOLhyphen"/>ſtructions given, or to be given to him thereanent. The ſaid Maſter <hi>Alexander</hi> alwayes giving particular and ti<g ref="char:EOLhyphen"/>mous intelligence to us of his travels, and diligence here<g ref="char:EOLhyphen"/>in till, and of the progreſſe and ſucceſſe thereof by every occaſion, and being comptable to us, and the next Gene<g ref="char:EOLhyphen"/>rall Aſſembly for all his proceedings in the matters gene<g ref="char:EOLhyphen"/>rally and particularly hereby committed to his truſt.</p>
+            <closer>
+               <signed>
+                  <hi>A. Ker</hi> Cler. Commiſs. Gen. Aſſ.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
